@@ -1,0 +1,11 @@
+{
+    "python.analysis.autoImportCompletions": true,
+    "python.analysis.completeFunctionParens": true,
+    "python.analysis.include": [
+        "C:\\Users\\jaspe\\AppData\\Roaming\\Python\\Python311\\site-packages"
+    ],
+    "[python]": {
+        "editor.defaultFormatter": "ms-python.black-formatter"
+    },
+    "python.formatting.provider": "none"
+}
